@@ -1,19 +1,24 @@
 \contentsline {chapter}{\numberline {第1章}はじめに}{3}
-\contentsline {chapter}{\numberline {第2章}関連研究}{4}
-\contentsline {section}{\numberline {2.1}技能評価に関する研究}{4}
-\contentsline {section}{\numberline {2.2}調理行動に関する研究}{4}
-\contentsline {chapter}{\numberline {第3章}手首の3次元的な動きの推定に基づく刺身を切る動作の特徴量抽出}{5}
-\contentsline {section}{\numberline {3.1}データの収集}{5}
-\contentsline {section}{\numberline {3.2}3次元の動きの推定}{6}
-\contentsline {section}{\numberline {3.3}特徴量の抽出}{7}
-\contentsline {chapter}{\numberline {第4章}推定システム}{9}
-\contentsline {section}{\numberline {4.1}センサデータ取得アプリ}{10}
-\contentsline {section}{\numberline {4.2}推定サーバ}{10}
-\contentsline {section}{\numberline {4.3}可視化システム}{11}
-\contentsline {chapter}{\numberline {第5章}評価実験}{12}
-\contentsline {section}{\numberline {5.1}実験設定}{12}
-\contentsline {section}{\numberline {5.2}実験結果}{12}
-\contentsline {chapter}{\numberline {第6章}おわりに}{16}
-\contentsline {chapter}{\numberline {} 謝辞の例}{17}
-\contentsline {chapter}{\numberline {} 参考文献の書き方例}{18}
-\contentsline {chapter}{\numberline {付 録A }論文表紙}{20}
+\contentsline {section}{\numberline {1.1}背景}{3}
+\contentsline {section}{\numberline {1.2}目的とアプローチ}{3}
+\contentsline {chapter}{\numberline {第2章}関連研究}{5}
+\contentsline {section}{\numberline {2.1}技能評価に関する研究}{5}
+\contentsline {section}{\numberline {2.2}調理行動に関する研究}{5}
+\contentsline {section}{\numberline {2.3}先行研究}{6}
+\contentsline {chapter}{\numberline {第3章}手首の3次元的な動きの推定に基づく刺身を切る動作の特徴量抽出}{8}
+\contentsline {section}{\numberline {3.1}データの収集}{8}
+\contentsline {section}{\numberline {3.2}3次元の動きの推定}{8}
+\contentsline {section}{\numberline {3.3}特徴量の抽出}{9}
+\contentsline {chapter}{\numberline {第4章}推定システム}{12}
+\contentsline {section}{\numberline {4.1}センサデータ取得アプリ}{13}
+\contentsline {section}{\numberline {4.2}推定サーバ}{14}
+\contentsline {section}{\numberline {4.3}可視化システム}{14}
+\contentsline {chapter}{\numberline {第5章}評価実験}{16}
+\contentsline {section}{\numberline {5.1}実験設定}{16}
+\contentsline {section}{\numberline {5.2}実験結果}{16}
+\contentsline {chapter}{\numberline {第6章}おわりに}{20}
+\contentsline {section}{\numberline {6.1}まとめ}{20}
+\contentsline {section}{\numberline {6.2}今後の課題}{20}
+\contentsline {chapter}{\numberline {} 謝辞}{21}
+\contentsline {chapter}{\numberline {} 参考文献}{22}
+\contentsline {chapter}{\numberline {付 録A }論文表紙}{24}
