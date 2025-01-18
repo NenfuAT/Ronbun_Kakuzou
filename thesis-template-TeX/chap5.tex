@@ -6,8 +6,12 @@
 本章では各節において実験の流れについて述べる．
 \section{実験設定}
 加速度と角速度を収集する自作アプリを起動したスマートウォッチ（PixelWatch2）を包丁を握る側の腕に装着しセンシングを行う．
-被験者は10cmほどの魚の柵を刺身に切り分ける調理を切る手法を変えて2回行う．
-柵は体に正対するように置く．
+柵は体に正対するように置き腕を柵に対して並行に置いた姿勢を初期姿勢とする図\ref{fig:homepose}．
+\figimage{images/homepose.pdf}{150}{初期姿勢}{fig:homepose}
+その際腕と並行な軸がRoll(X)軸，垂直な軸がPitch(Y)軸となっている．
+被験者は10cmほどの魚の柵を刺身に切り分ける調理を平造り，そぎ切りと切る手法を変えて2回行う．
+平造りは柵に対して刃を垂直に切る手法で，そぎ切りは刃を斜めに入れて切る手法である(図\ref{fig:cut})．
+\figimage{images/cut.pdf}{150}{切る手法}{fig:cut}
 刺身を切る動作は刃を入れる角度による断面の変化や包丁を引く回数から切り分けた身の厚さなどの複数の評価基準が得られる．
 
 また，実際に切った区間のラベリングのために動画を撮影しながらデータ収集を行った．
@@ -49,7 +53,7 @@
     \centering
     \caption{平造りの特徴量}
     \label{table:1}
-    \resizebox{150mm}{!}{ 
+    \resizebox{100mm}{!}{ 
         \begin{tabular}{ccc}
             \hline\hline
             切った回数 & かかった時間(s) & 角度の平均(deg) \\
@@ -70,7 +74,7 @@
     \centering
     \caption{そぎ切りの特徴量}
     \label{table:2}
-    \resizebox{150mm}{!}{ 
+    \resizebox{100mm}{!}{ 
         \begin{tabular}{ccc}
             \hline\hline
             切った回数 & かかった時間(s) & 角度の平均(deg) \\
