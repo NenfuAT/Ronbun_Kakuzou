@@ -9,16 +9,16 @@
 \contentsline {chapter}{\numberline {第3章}手首の3次元的な動きの推定に基づく刺身を切る動作の特徴量抽出}{9}
 \contentsline {section}{\numberline {3.1}データの収集}{9}
 \contentsline {section}{\numberline {3.2}3次元の動きの推定}{9}
-\contentsline {section}{\numberline {3.3}特徴量の抽出}{10}
+\contentsline {section}{\numberline {3.3}特徴量の抽出}{11}
 \contentsline {chapter}{\numberline {第4章}推定システム}{13}
 \contentsline {section}{\numberline {4.1}センサデータ取得アプリ}{14}
 \contentsline {section}{\numberline {4.2}推定サーバ}{15}
 \contentsline {section}{\numberline {4.3}可視化システム}{15}
-\contentsline {chapter}{\numberline {第5章}評価実験}{17}
-\contentsline {section}{\numberline {5.1}実験設定}{17}
-\contentsline {section}{\numberline {5.2}実験結果}{18}
-\contentsline {chapter}{\numberline {第6章}おわりに}{23}
-\contentsline {section}{\numberline {6.1}まとめ}{23}
-\contentsline {section}{\numberline {6.2}今後の課題}{23}
-\contentsline {chapter}{\numberline {} 謝辞}{25}
-\contentsline {chapter}{\numberline {} 参考文献}{26}
+\contentsline {chapter}{\numberline {第5章}評価実験}{18}
+\contentsline {section}{\numberline {5.1}実験設定}{18}
+\contentsline {section}{\numberline {5.2}実験結果}{19}
+\contentsline {chapter}{\numberline {第6章}おわりに}{24}
+\contentsline {section}{\numberline {6.1}まとめ}{24}
+\contentsline {section}{\numberline {6.2}今後の課題}{24}
+\contentsline {chapter}{\numberline {} 謝辞}{26}
+\contentsline {chapter}{\numberline {} 参考文献}{27}
