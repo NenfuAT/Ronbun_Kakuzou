@@ -6,11 +6,25 @@
 % 使いたい人は使う
 \usepackage{personal}
 % 図挿入用
-\usepackage{graphicx}
+\usepackage[dvipdfmx]{graphicx} 
 \usepackage{latexsym}
 \usepackage{amssymb}
 \usepackage{amsfonts}
+\usepackage{amsmath}
 \usepackage{ulinej}
+\usepackage{url}
+
+% \figimage コマンドの定義
+%{画像のパス}{横幅(mm)}{キャプション}{ラベル名}
+\newcommand{\figimage}[4]{
+	\begin{figure}[tbh]
+		\centering
+		\includegraphics[width=#2 mm]{#1}
+		\caption{#3}
+		\label{#4}
+	\end{figure}
+}
+% ---------------
 
 \pagestyle{headings}
 
@@ -52,11 +66,13 @@
 
 \include{chap2}
 
-% \include{chap3}
+\include{chap3}
 
-% \include{chap4}
+\include{chap4}
 
-% \include{chap5}
+\include{chap5}
+
+\include{chap6}
 
 \include{thanks}
 
@@ -65,7 +81,7 @@
 % これ以降，付録となる
 \appendix
 
-\include{cover}
+% \include{cover}
 
 \end{document}
 

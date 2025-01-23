@@ -1,14 +1,24 @@
-\contentsline {chapter}{\numberline {第1章}卒業論文の作成と発表の手順}{3}{}%
-\contentsline {section}{\numberline {1.1}スケジュール}{3}{}%
-\contentsline {section}{\numberline {1.2}レジュメの提出}{3}{}%
-\contentsline {section}{\numberline {1.3}卒業論文提出}{3}{}%
-\contentsline {section}{\numberline {1.4}卒業研究口頭発表}{3}{}%
-\contentsline {section}{\numberline {1.5}卒業研究の審査・単位認定について}{4}{}%
-\contentsline {chapter}{\numberline {第2章}卒業論文の書式}{5}{}%
-\contentsline {section}{\numberline {2.1}論文の書式}{5}{}%
-\contentsline {section}{\numberline {2.2}論文の構成例}{6}{}%
-\contentsline {section}{\numberline {2.3}論文の製本形態と関連資料の整理}{7}{}%
-\contentsline {section}{\numberline {2.4}レジュメ(概要)の書式}{7}{}%
-\contentsline {chapter}{\numberline {} 謝辞の例}{9}{}%
-\contentsline {chapter}{\numberline {} 参考文献の書き方例}{10}{}%
-\contentsline {chapter}{\numberline {付 録A }論文表紙}{11}{}%
+\contentsline {chapter}{\numberline {第1章}はじめに}{3}
+\contentsline {section}{\numberline {1.1}背景}{3}
+\contentsline {section}{\numberline {1.2}目的とアプローチ}{4}
+\contentsline {section}{\numberline {1.3}論文構成}{5}
+\contentsline {chapter}{\numberline {第2章}関連研究}{6}
+\contentsline {section}{\numberline {2.1}技能評価に関する研究}{6}
+\contentsline {section}{\numberline {2.2}調理行動に関する研究}{6}
+\contentsline {section}{\numberline {2.3}先行研究}{7}
+\contentsline {chapter}{\numberline {第3章}手首の3次元的な動きの推定に基づく刺身を切る動作の特徴量抽出}{9}
+\contentsline {section}{\numberline {3.1}データの収集}{9}
+\contentsline {section}{\numberline {3.2}3次元の動きの推定}{9}
+\contentsline {section}{\numberline {3.3}特徴量の抽出}{11}
+\contentsline {chapter}{\numberline {第4章}推定システム}{13}
+\contentsline {section}{\numberline {4.1}センサデータ取得アプリ}{14}
+\contentsline {section}{\numberline {4.2}推定サーバ}{15}
+\contentsline {section}{\numberline {4.3}可視化システム}{16}
+\contentsline {chapter}{\numberline {第5章}評価実験}{19}
+\contentsline {section}{\numberline {5.1}実験設定}{19}
+\contentsline {section}{\numberline {5.2}実験結果}{20}
+\contentsline {chapter}{\numberline {第6章}おわりに}{27}
+\contentsline {section}{\numberline {6.1}まとめ}{27}
+\contentsline {section}{\numberline {6.2}今後の課題}{27}
+\contentsline {chapter}{\numberline {} 謝辞}{29}
+\contentsline {chapter}{\numberline {} 参考文献}{30}
