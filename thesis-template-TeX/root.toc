@@ -11,7 +11,7 @@
 \contentsline {section}{\numberline {3.2}3次元の動きの推定}{9}
 \contentsline {section}{\numberline {3.3}特徴量の抽出}{11}
 \contentsline {chapter}{\numberline {第4章}推定システム}{13}
-\contentsline {section}{\numberline {4.1}センサデータ取得アプリ}{14}
+\contentsline {section}{\numberline {4.1}センサデータ取得アプリケーション}{14}
 \contentsline {section}{\numberline {4.2}推定サーバ}{15}
 \contentsline {section}{\numberline {4.3}可視化システム}{16}
 \contentsline {chapter}{\numberline {第5章}評価実験}{19}
